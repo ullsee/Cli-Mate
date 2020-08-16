@@ -10,10 +10,9 @@ A weather app inspired by the beautiful designs made by Olia Gozha. By the end o
 
 ## Home Screen
 ![home screen](./images/bg.jpg)
-* Dynamic Home page indicating current Temperature, city name, and condition
+* Dynamic Home page indicating current temperature, city name, and condition
 * Device location obtained by getting GPS location using geolocator package
-* Data rendered from openweather.org API
-* Data grabbed from API using http package
+* Data rendered from openweather.org API using http package
 * JSON decoded with help of conver package
 
 ## Search Screen
